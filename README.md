@@ -1,73 +1,65 @@
 <h1 align="center">Hi 👋, I'm Jeremy Salinas</h1>
-<h3 align="center">💻 Programming student | 📍 Based in Mexico | Passionate about building real-world tech solutions</h3>
+<h3 align="center">💻 Computer Engineering Student | 🌎 Mexico | 🧠 Focused on Python, AR & Mobile/Web Dev</h3>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-- 🎓 I'm currently studying **Computer Engineering** in Mexico.
-- 💡 I’m working on projects involving **Python, AI, AR**, and **user interfaces**.
-- 🌱 Currently learning **OpenCV**, **Tkinter**, and **Android with Kotlin**.
-- 💬 Ask me about **web & mobile development**, **databases**, and **interface design**.
-- 📌 Looking to collaborate on innovative ideas that solve real problems.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-</p>
+- 🎓 10th semester of Computer Engineering student  
+- 👨‍💻 Learning **Python + OpenCV**, **Kotlin**, **Tkinter** and **Design Web**
+- 🔍 Interested in **AI + Augmented Reality for education**  
+- 📊 I enjoy building interactive interfaces and real-world apps  
+- 🌱 Current project: **Training children with AI and AR in native languages**
 
 ---
 
-### 📊 GitHub Stats
+### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jery-salinas&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jery-salinas&layout=compact&theme=dracula" height="150" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" title="C"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 📈 GitHub Activity & Stats
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
-  <a href="https://youtube.com/tu-canal" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" />
-  </a>
-  <a href="https://discordapp.com/users/tu-user" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jery-salinas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jery-salinas&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jery-salinas&theme=tokyonight&hide_border=true" width="96%" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 🔗 Connect with Me
 
-Here are some projects I've been working on:
+<p align="center">
+  <a href="www.linkedin.com/in/jeremy-salinas775680204" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  
+</p>
 
-- 🎮 **Sign Language AR App** – A tool that helps users learn sign language with computer vision.
-- 🐠 **Acuario de Veracruz GUI** – Python/Tkinter system for species management in a marine aquarium.
-- 🛫 **Flight Dashboard** – Interactive multilingual flight information panel for airports.
+---
 
-> Visit my repositories to learn more 🚀
+### 🌟 Highlight Projects
+
+- 🐠 **GUI for Veracruz Aquarium** (Python + Tkinter)  
+- ✈️ **Flight Info Dashboard** (Multilingual Airport Kiosk)  
+- 🤖 **Sign Language AR Trainer** (AI + OpenCV + Python)  
 
 ---
 
-### ✨ Fun Fact
-
-> I started coding because I loved modifying video games at age 16 🎮 — now I build tools with real-world impact.
-
----
+### 🎯 Fun Fact
+> I got into coding through modding games — now I use that same creativity to solve real problems 🎮📱
 
