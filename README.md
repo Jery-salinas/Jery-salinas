@@ -1,110 +1,348 @@
-<div align="center">
-  
-# Hey there! I'm Jeremy Salinas 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student+%F0%9F%8E%93;Python+%7C+AR+%7C+Mobile+%26+Web+Developer;Building+AI+%2B+AR+Solutions+for+Education)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Jery-salinas&style=for-the-badge&color=0891b2" alt="Profile Views"/>
-
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class JeremySalinas:
-    def __init__(self):
-        self.name = "Jeremy Salinas"
-        self.location = "Veracruz, Mexico 🇲🇽"
-        self.education = "Computer Engineering (10th Semester)"
-        self.current_focus = ["AI + Augmented Reality", "Native Language Education"]
-        
-    def get_daily_routine(self):
-        return ["☕ Code", "🧠 Learn", "🔨 Build", "🔁 Repeat"]
-```
-
-- 🎯 **Currently Working On:** Training children with AI and AR in native languages
-- 📚 **Learning:** Python + OpenCV, Kotlin, Tkinter & Web Design
-- 💡 **Passionate About:** Building interactive interfaces and real-world applications
-- 🎮 **Fun Fact:** Got into coding through game modding — now I solve real problems with that creativity!
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+# JEREMY SALINAS MAULEON
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Software Engineer · Backend & Mobile Development
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+Building scalable systems, reliable backend architectures
+and native mobile applications.
+</p>
 
-### Tools & Frameworks
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 **Sign Language AR Trainer** | AI-powered tool to teach sign language using AR | Python, OpenCV, AI |
-| 🐠 **Veracruz Aquarium GUI** | Interactive desktop app for aquarium management | Python, Tkinter |
-| ✈️ **Flight Info Dashboard** | Multilingual airport kiosk with real-time info | Web Technologies |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/Jery-salinas">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jery-salinas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jery-salinas&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=Jery-salinas&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/Jery-salinas?tab=followers">
+<img src="https://img.shields.io/github/followers/Jery-salinas?label=FOLLOWERS&style=for-the-badge&color=0891B2" alt="Followers"/>
+</a>
+<a href="https://github.com/Jery-salinas?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jery-salinas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,kotlin,androidstudio,postgres,docker,azure,git,github&theme=dark" alt="Technology Stack"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 01 — About Me
+
+```java
+public class JeremySalinas {
+
+    private final String name = "Jeremy Salinas Mauleon";
+    private final String location = "Veracruz, Mexico";
+
+    private final String education =
+        "Computer Engineering - Universidad Veracruzana";
+
+    private final String role = "Software Engineer";
+
+    private final String[] specialties = {
+        "Backend Development",
+        "Enterprise Architecture",
+        "Native Android Development",
+        "Database Design"
+    };
+
+    private final String[] interests = {
+        "Cloud Computing",
+        "System Architecture",
+        "Automation",
+        "Emerging Technologies"
+    };
+
+}
+```
+
+I'm a Software Engineer focused on designing and developing reliable, scalable and maintainable software solutions.
+
+My experience and interests revolve around backend engineering, enterprise applications, database architecture and native mobile development.
+
+I enjoy understanding complex problems, designing efficient solutions and continuously improving my engineering skills.
+
+- Currently working on enterprise software solutions and native Android applications.
+- Interested in scalable backend architectures and cloud technologies.
+- Exploring modern software engineering practices and system design.
+- Always looking for opportunities to learn, build and improve.
+
+---
+
+## 02 — Engineering Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Engineering
+
+- RESTful API Development
+- Enterprise Applications
+- Object-Oriented Programming
+- Software Architecture
+- Authentication & Authorization
+- Business Logic Development
+
+</td>
+<td width="50%" valign="top">
+
+### Mobile Engineering
+
+- Native Android Development
+- Kotlin
+- Jetpack Compose
+- MVVM Architecture
+- Local Data Persistence
+- Responsive UI Development
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Database Engineering
+
+- Relational Database Design
+- SQL & Query Optimization
+- Data Modeling
+- Database Management
+- Transaction Management
+
+</td>
+<td width="50%" valign="top">
+
+### Cloud & Infrastructure
+
+- Cloud Application Architecture
+- Azure
+- Docker
+- CI/CD Concepts
+- Git & Version Control
+- Deployment & Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 — Technology Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript,typescript,html,css&theme=dark" alt="Programming Languages"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,django,react,androidstudio&theme=dark" alt="Frameworks"/>
+</p>
+
+### Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,azure,docker&theme=dark" alt="Databases and Cloud"/>
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,linux,bash&theme=dark" alt="Development Tools"/>
+</p>
+
+---
+
+## 04 — Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>Enterprise FinTech Platform</h3>
+
+<strong>CONFIDENTIAL PROJECT</strong>
+
+Secure enterprise ecosystem designed to support automated financial operations.
+
+**Key Features**
+
+- Identity verification workflows
+- OCR document processing
+- Secure document management
+- Cloud-based architecture
+- Financial process automation
+
+**Technologies**
+
+`Python` `Django` `PostgreSQL` `Azure`
+
+</td>
+<td width="50%" valign="top">
+
+<h3>DT Manager</h3>
+
+<strong>PERSONAL PROJECT</strong>
+
+Native Android application focused on amateur football team management.
+
+**Key Features**
+
+- Team management
+- Player statistics
+- Match calendars
+- Lineup organization
+- Local data persistence
+
+**Technologies**
+
+`Kotlin` `Jetpack Compose` `Room`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>RecoWeb</h3>
+
+<strong>ACADEMIC PROJECT</strong>
+
+Web platform for managing electronic waste collection, diagnosis, repair and recycling processes.
+
+**Key Features**
+
+- Electronic waste registration
+- Technical diagnosis
+- Repair management
+- Inventory management
+- Reports and tracking
+
+**Technologies**
+
+`Java` `ZK Framework` `SQL` `MVC`
+
+</td>
+<td width="50%" valign="top">
+
+<h3>More Projects</h3>
+
+I'm continuously working on new ideas and improving my engineering skills through practical software development.
+
+Explore my repositories to discover more experiments, applications and technical implementations.
+
+<br/><br/>
+
+<a href="https://github.com/Jery-salinas?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 05 — GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-salinas775680204)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jery-salinas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsalinasmauleon@gmail.com)
+<a href="https://github.com/Jery-salinas">
+<img width="49%" src="./profile/stats.svg" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/Jery-salinas">
+<img width="49%" src="./profile/top-langs.svg" alt="Most Used Languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Jery-salinas?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-  
-### 💭 *"From modding games to building real-world solutions — creativity finds a way"*
+## 06 — Currently Exploring
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Cloud & Infrastructure
+
+- AWS Cloud
+- Docker & Containerization
+- Kubernetes
+- Cloud Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### Software Engineering
+
+- Advanced Java
+- Spring Boot
+- Enterprise Architecture
+- Oracle Java Certification
+
+</td>
+</tr>
+</table>
+
+---
+
+## 07 — Beyond the Code
+
+Outside software development, I enjoy football, technology, problem-solving and exploring new ideas.
+
+I believe continuous learning and practical experience are essential to becoming a better engineer.
+
+---
+
+## 08 — Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Jery-salinas">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Add your actual LinkedIn URL -->
+
+<!--
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+-->
+
+<!-- Add your portfolio URL -->
+
+<!--
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+-->
+
+<!-- Add your professional email -->
+
+<!--
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+-->
+
+<br/><br/>
+
+<h3>Engineering solutions. Building possibilities.</h3>
+
+<sub>Designed & Developed by Jeremy Salinas Mauleon · 2026</sub>
 
 </div>
